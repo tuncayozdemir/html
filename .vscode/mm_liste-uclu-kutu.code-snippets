@@ -1,7 +1,7 @@
 {
 	"Oval ve 3' lü kutu listesi": {
 		"scope": "php,html",
-		"prefix": "liste-uclu-kutu",
+		"prefix": "mm-liste-uclu-kutu",
 		"body": [
 			"<section class=\"uclu-kutu-listesi anasayfa-hizmetler\">",
 			"<div class=\"container\">",
