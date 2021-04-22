@@ -1,0 +1,11 @@
+.mm-card-group .card .card-img-overlay {
+    opacity: 0;
+    transition: all 0.3s ease 0.02s;
+    background-color: rgba(255, 255, 255, 0.733);
+    top: 100%;
+}
+
+.mm-card-group .card:hover .card-img-overlay {
+    opacity: 1;
+    top: 0
+}
