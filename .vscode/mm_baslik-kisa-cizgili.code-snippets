@@ -1,7 +1,7 @@
 {
 	"Kısa çizgili başlık": {
 		"scope": "html,php",
-		"prefix": "mm-baslik-kisa-cizgili",
+		"prefix": "!mm-baslik-kisa-cizgili",
 		"body": [
 			"<div class=\"kisa-cizgili-baslik\">",
                 "<h2>Sunduğumuz <span>Hizmetler</span></h2>",

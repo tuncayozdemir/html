@@ -1,8 +1,15 @@
 {
 	"Oval ve 3' lü kutu listesi": {
 		"scope": "php,html",
-		"prefix": "!mm-card-group",
+		"prefix": "!mm-liste-uclu-kutu",
 		"body": [
+			"<section class=\"uclu-kutu-listesi anasayfa-hizmetler\">",
+			"<div class=\"container\">",
+			"<div class=\"kisa-cizgili-baslik\">",
+			"<h2>Sunduğumuz <span>Hizmetler</span></h2>",
+			"<p>Başlık alt açıklama bölümü. Kısa açıklama, slogan yazınız</p>",
+			"</div>",
+		
 			"<div class=\"row row-cols-1 row-cols-md-3 g-4\">",
 			"<div class=\"col\">",
 			"<div class=\"card h-100 border-0 text-center\">",
@@ -58,6 +65,8 @@
 			"</div>",
 			"</div>",
 			"</div>",
+			"</div>",
+			"</section>"
 		],
 		"description": "Resim, yazı alanı ve link kenarları oval kutu listesi. Yazı alanında ve linkte negatif margin-top var ve resim, yazı alanı ve link kısmen iç içe bir görünüme sahip"
 	}
